@@ -16,7 +16,7 @@ I enjoy employing my skills in the workplace to optimize processes and develop i
 ### 🚀 Continuous Learning: 
 I am driven to stay current with the latest technological trends and advancements, persistently seeking to challenge myself and grow in my field.
 
-### 🔧 Languages and Tools
+# 🔧 Languages and Tools
 
 <p>
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
